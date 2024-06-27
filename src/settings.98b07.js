@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["bullet","fish"],collisionMatrix:[[false,true],[true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/mainscene.fire",orientation:"",jsList:["assets/Script/Lib/Fetch.edf16.js"],bundleVers:{internal:"d0832",resources:"cfd36",main:"e0f71"}};
